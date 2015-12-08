@@ -9,10 +9,10 @@
   - Number of sessions
   - Average duration of each session
   - Stuff that they looked at during each session, maybe come up with a ranking
-- Feature selection
- - PCA
- - KMeans
- - Other more advanced feature selection methods? See what scikit provides
+ - Feature selection
+  - PCA
+  - KMeans
+  - Other more advanced feature selection methods? See what scikit provides
 
 ##Techniques##
 - XGBOOST
