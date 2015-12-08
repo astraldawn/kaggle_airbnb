@@ -63,7 +63,7 @@ X_test = vals[piv_train:]
 print list(df_all.columns.values)
 
 # Classifier
-xgb = XGBClassifier(max_depth=7, learning_rate=0.35, n_estimators=30,
+xgb = XGBClassifier(max_depth=10, learning_rate=0.3, n_estimators=25,
                     objective='multi:softprob', subsample=0.5,
                     colsample_bytree=0.5, seed=0)
 xgb.fit(X, y)
