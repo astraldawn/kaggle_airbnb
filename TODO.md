@@ -18,3 +18,5 @@
 - XGBOOST
  - Looks as though the parameters have been tweaked
 
+##Useful links##
+- http://nerds.airbnb.com/overcoming-missing-values-in-a-rfc/
