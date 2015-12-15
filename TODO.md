@@ -17,6 +17,10 @@
 ##Techniques##
 - XGBOOST
  - Looks as though the parameters have been tweaked
+- Clustering
+ - Should be able to generate clusters quickly. Then run XGBOOST within cluster. [Potential overfitting]
 
 ##Useful links##
 - http://nerds.airbnb.com/overcoming-missing-values-in-a-rfc/
+- http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations-v0.6.ipynb
+- http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb (HDBSCAN clustering algorithm)
