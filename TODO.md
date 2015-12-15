@@ -24,3 +24,4 @@
 - http://nerds.airbnb.com/overcoming-missing-values-in-a-rfc/
 - http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Benchmarking%20scalability%20of%20clustering%20implementations-v0.6.ipynb
 - http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb (HDBSCAN clustering algorithm)
+- http://www.kdnuggets.com/2015/05/7-methods-data-dimensionality-reduction.html
